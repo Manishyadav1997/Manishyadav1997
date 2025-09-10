@@ -21,26 +21,24 @@ _Senior React Native & iOS Developer_
 ## 🌟 Featured Projects
 
 ### 1. **Khet Calculator**
-> _A comprehensive calculator app for farmers with specialized agricultural formulas_
-- **Tech:** React Native, JavaScript
+> _A farming calculation app that helps farmers calculate their crop yields and profits._
+- **Tech:** React Native, Firebase
 - [Play Store](https://play.google.com/store/apps/details?id=com.khetcalculator&pcampaignid=web_share)
-- [GitHub](https://github.com/Manishyadav1997/KhetCalculator)
 
 ### 2. **TimeShield**
-> _Time management app with sophisticated tracking and analytics_
-- **Tech:** Swift, UIKit, Core Data
+> _A secure time tracking and productivity app for professionals._
+- **Tech:** Swift, UIKit, Firebase
 - [App Store](https://apps.apple.com/in/app/timeshield/id6746958484)
-- [GitHub](https://github.com/Manishyadav1997/TimeShield)
 
-### 3. **Betting UI**
-> _Modern betting platform interface with real-time odds and user-friendly experience_
-- **Tech:** React Native, Redux, TypeScript
-- [GitHub](https://github.com/Manishyadav1997/testBettingUI)
-
-### 4. **Lawyer Steno App**
-> _Document management and note-taking app designed for legal professionals_
-- **Tech:** React Native, Firebase
+### 3. **Lawyer Steno App**
+> _An application designed for lawyers to record and manage client information._
+- **Tech:** React Native, Node.js
 - [GitHub](https://github.com/Manishyadav1997/LawyerStenoApp)
+
+### 4. **Betting UI**
+> _A modern UI implementation for a betting platform._
+- **Tech:** React Native, Redux
+- [GitHub](https://github.com/Manishyadav1997/testBettingUI)
 
 ---
 
@@ -56,7 +54,9 @@ _Senior React Native & iOS Developer_
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-21aa43133/) [![Email](https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-21aa43133/) 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail)](mailto:manish.iosapp@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://manish-kumar-mobile-dev-1f7a1o1.gamma.site/)
 
 ---
 
