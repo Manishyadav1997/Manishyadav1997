@@ -37,7 +37,7 @@ _Senior React Native & iOS Developer_
 
 ### 4. **Betting UI**
 > _A modern UI implementation for a betting platform._
-- **Tech:** React Native, Redux
+- **Tech:** React, Node.js, Express.js
 - [GitHub](https://github.com/Manishyadav1997/testBettingUI)
 
 ---
