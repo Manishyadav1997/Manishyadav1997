@@ -62,7 +62,7 @@ _Senior React Native & iOS Developer_
 
 ## 🎉 Fun Fact
 
-I can debug React Native builds faster than I finish my morning coffee! ☕️🚀
+I can debug React Native builds faster than I finish my morning coffee!  ☕️🚀
 
 ---
 
