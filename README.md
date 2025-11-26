@@ -1,6 +1,6 @@
 # 📌 Manish Yadav
 
-_Senior React Native & iOS Developer_  
+_Senior React Native & iOS Developer_ 
 **Building premium mobile experiences**
 
 ---
